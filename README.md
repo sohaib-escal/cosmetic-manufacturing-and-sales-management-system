@@ -4,14 +4,14 @@ A fully functional web application designed to improve the efficiency of a compa
 
 #### Python | Django | MySQL | Bootstrap
 
-#### Application is developed under 8 components, namely
-##### Customer and Sales Management
-##### Formulation and Laboratory Management
-##### Batch Production Management
-##### Supplier Management
-##### Warehouse Management
-##### Employee Management
-##### Cost Analysis Management
-##### Delivery Management
+### Application is developed under 8 components, namely
+- Customer and Sales Management
+- Formulation and Laboratory Management
+- Batch Production Management
+- Supplier Management
+- Warehouse Management
+- Employee Management
+- Cost Analysis Management
+- Delivery Management
 
 My contribution in this project is to develop all the functionalities related to Batch Production Management System.
