@@ -20,7 +20,8 @@ def loginuser(request):
     context = {
         "form": form,
     }
-    return render(request, 'Users/wh_login.html', context)
+    # Temporarily use simple template to avoid crispy forms issues
+    return render(request, 'Users/wh_login_simple.html', context)
 
 
 def logoutuser(request):
